@@ -35,3 +35,7 @@
 <a href = "https://github.com/hunibottle">
   <img src="https://avatars.githubusercontent.com/u/96459377?v=4" alt="김병훈" width="80" style="max-width:100%" />
 </a>
+
+--- 
+
+@Copyright <a href = "https://github.com/sth4881">송진호</a>
