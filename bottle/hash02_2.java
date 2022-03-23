@@ -26,7 +26,8 @@ public class hash02_2 {
 
         if(abc > 0){
             System.out.println("false");
-        }else System.out.println("true");
+        }else System.out.println("true....");
+        //Âð¸·
 
     }
 }
