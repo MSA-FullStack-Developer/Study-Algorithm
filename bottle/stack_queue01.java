@@ -14,7 +14,7 @@ public class stack_queue01 {
             while(progresses[i] + (day * speeds[i]) < 100){
                 day++;
             }
-            sys
+            sysefwf
             temp[day]++;
         }
         
