@@ -4,9 +4,9 @@ import java.util.Queue;
 
 public class stack_queue01 {
     public static void main(String[] args) {
-        int temp[] = new int[100];
         int[] progresses = {93, 30, 55};
         int[] speeds = {1, 30, 5};
+        int temp[] = new int[100];
         int day = 0;
         int count = 0;
         
@@ -14,6 +14,7 @@ public class stack_queue01 {
             while(progresses[i] + (day * speeds[i]) < 100){
                 day++;
             }
+            sys
             temp[day]++;
         }
         
