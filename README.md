@@ -28,20 +28,36 @@
 ## 🤝 Contributers
 
 <a href = "https://github.com/sth4881">
-  <img src="https://avatars.githubusercontent.com/u/46771903?v=4" alt="Jinho Song" width="80" style="max-width:100%" />
+  <img src="https://avatars.githubusercontent.com/u/46771903?v=4" alt="sth4881" width="80" style="max-width:100%" />
 </a>
 <a href = "https://github.com/msh1273">
-  <img src="https://avatars.githubusercontent.com/u/55138034?v=4" alt="seokho" width="80" style="max-width:100%" />
+  <img src="https://avatars.githubusercontent.com/u/55138034?v=4" alt="msh1273" width="80" style="max-width:100%" />
 </a>
 <a href = "https://github.com/khoon-git">
-  <img src="https://avatars.githubusercontent.com/u/71899948?v=4" alt="KyeongHoon Kim" width="80" style="max-width:100%" />
+  <img src="https://avatars.githubusercontent.com/u/71899948?v=4" alt="khoon-git" width="80" style="max-width:100%" />
 </a>
 <a href = "https://github.com/hunibottle">
-  <img src="https://avatars.githubusercontent.com/u/96459377?v=4" alt="김병훈" width="80" style="max-width:100%" />
+  <img src="https://avatars.githubusercontent.com/u/96459377?v=4" alt="hunibottle" width="80" style="max-width:100%" />
 </a>
 <a href = "https://github.com/baejihyeon">
-  <img src="https://avatars.githubusercontent.com/u/51259368?v=4" alt="배지현" width="80" style="max-width:100%" />
+  <img src="https://avatars.githubusercontent.com/u/51259368?v=4" alt="baejihyeon" width="80" style="max-width:100%" />
 </a>
+<a href = "https://github.com/iou000">
+  <img src="https://avatars.githubusercontent.com/u/68727627?v=4" alt="iou000" width="80" style="max-width:100%" />
+</a>
+<a href = "https://github.com/Minyoung-Kyung">
+  <img src="https://avatars.githubusercontent.com/u/69343164?v=4" alt="Minyoung-Kyung" width="80" style="max-width:100%" />
+</a>
+<a href = "https://github.com/bogyung1">
+  <img src="https://avatars.githubusercontent.com/u/48551273?v=4" alt="bogyung1" width="80" style="max-width:100%" />
+</a>
+<a href = "https://github.com/sisi397">
+  <img src="https://avatars.githubusercontent.com/u/74189924?v=4" alt="sisi397" width="80" style="max-width:100%" />
+</a>
+<a href = "https://github.com/Turtlegim">
+  <img src="https://avatars.githubusercontent.com/u/9133430?v=4" alt="Turtlegim" width="80" style="max-width:100%" />
+</a>
+
 
 ---
 
