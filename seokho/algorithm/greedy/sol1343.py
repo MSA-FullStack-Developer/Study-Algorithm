@@ -36,3 +36,13 @@ if flag:
     print(".".join(board))
 else:
     print(-1)
+
+# 더 간단한 풀이 (추가)
+board1 = input()
+board1 = board1.replace("XXXX", "AAAA")
+board1 = board1.replace("XX", "BB")
+
+if 'X' in board1:
+    print(-1)
+else:
+    print(board1)
