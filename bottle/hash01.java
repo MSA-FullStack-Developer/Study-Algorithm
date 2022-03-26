@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 public class hash01 {
-    /* 주석 추가 !!!*/
+    /* 주석 추가 !!!!*/
 
     public static void main(String[] args) {
         
