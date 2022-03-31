@@ -7,6 +7,7 @@ public class secret_map {
         int[] arr2 = {30, 1, 21, 17, 28};
         String[] binaryarr1 = new String[n];
         String[] binaryarr2 = new String[n];
+        
         String[] answer = new String[n];
         String str = "";
 
