@@ -6,7 +6,6 @@ class Solution {
         int count_max = 0;
         int max = 0;
         
-        
         for(int i = 0 ; i < lottos.length ; i++){
             if(lottos[i] != 0) {
             	for(int j = 0 ; j < win_nums.length ; j++) {
