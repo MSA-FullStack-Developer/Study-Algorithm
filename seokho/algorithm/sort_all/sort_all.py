@@ -60,7 +60,7 @@ array = [5, 3, 2, 1, 7, 8]
 result = sorted(array)
 print(result)
 
-# 리스트 변수가 하나 있을 때 내부 원소를 바로 정렬하는 sort() 함수 별도의 리스트 반환 없이 바로 내부 원소 변경
+# 리스트 변수가 하나 있을 때 내부 원소를 ㅅ바로 정렬하는 sort() 함수 별도의 리스트 반환 없이 바로 내부 원소 변경
 array = [5, 3, 2, 1, 7, 8]
 array.sort()
 print(array)
