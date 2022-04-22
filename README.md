@@ -43,6 +43,9 @@
 <a href = "https://github.com/iou000">
   <img src="https://avatars.githubusercontent.com/u/68727627?v=4" alt="iou000" width="80" style="max-width:100%" />
 </a>
+<a href = "https://github.com/shimshim485">
+  <img src="https://avatars.githubusercontent.com/u/50603345?v=4" alt="shimshim485" width="80" style="max-width:100%" />
+</a>
 <a href = "https://github.com/bogyung1">
   <img src="https://avatars.githubusercontent.com/u/48551273?v=4" alt="bogyung1" width="80" style="max-width:100%" />
 </a>
@@ -57,9 +60,7 @@
 <a href = "https://github.com/Turtlegim">
   <img src="https://avatars.githubusercontent.com/u/9133430?v=4" alt="Turtlegim" width="80" style="max-width:100%" />
 </a>
-<a href = "https://github.com/shimshim485">
-  <img src="https://avatars.githubusercontent.com/u/50603345?v=4" alt="shimshim485" width="80" style="max-width:100%" />
-</a>
+
 -->
 
 ---
