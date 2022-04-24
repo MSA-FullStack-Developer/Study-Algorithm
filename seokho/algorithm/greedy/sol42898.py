@@ -40,7 +40,6 @@ def solution1(m, n, puddles):
                 ans[i][j] = ans[i-1][j]+ans[i][j-1]
     return ans[n][m] % 1000000007
 
-
 m = 4
 n = 4
 puddles = [[3, 2], [2, 4]]
