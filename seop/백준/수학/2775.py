@@ -1,3 +1,5 @@
+# 수학
+# 부녀회장이 될테야
 T = int(input())
 
 for i in range(T):

@@ -1,4 +1,6 @@
 # DP
+# 돌 게임
+
 n = int(input())
 dp = [0,0,0]
 dp[0] = 'SK'

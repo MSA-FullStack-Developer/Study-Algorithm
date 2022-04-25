@@ -1,3 +1,5 @@
+# BFS / DFS
+# 단지 번호 붙이기
 n = int(input())
 graph = []
 for i in range(n):

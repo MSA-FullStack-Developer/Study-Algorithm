@@ -1,5 +1,5 @@
 # 수학
-
+# 직각삼각형
 while True:
     a,b,c = map(int,input().split())
 

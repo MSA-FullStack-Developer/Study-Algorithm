@@ -1,3 +1,6 @@
+# 스택
+# 괄호
+
 n = int(input())
 data = [] 
 for i in range(n):

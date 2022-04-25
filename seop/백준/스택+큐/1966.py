@@ -1,5 +1,5 @@
 # 큐
-
+# 프린터 큐
 from collections import deque
 
 K = int(input())
