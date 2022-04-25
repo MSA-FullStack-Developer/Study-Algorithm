@@ -1,4 +1,5 @@
 # 문자열
+# 팰린드롬수
 
 while True:
     N = str(input())

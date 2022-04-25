@@ -1,5 +1,5 @@
 # BFS
-
+# 미로 탐색
 from collections import deque
 
 # 정수 입력

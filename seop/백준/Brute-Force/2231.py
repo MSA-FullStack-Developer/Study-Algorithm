@@ -1,4 +1,5 @@
-#Brute-Force
+# Brute-Force
+# 분해 합
 
 N = int(input())
 

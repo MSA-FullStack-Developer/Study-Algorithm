@@ -1,3 +1,6 @@
+#문자열, 정렬
+#단어 정렬
+
 n = int(input())
 data = []
 for i in range(n):

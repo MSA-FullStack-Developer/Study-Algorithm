@@ -1,5 +1,5 @@
-#BFS
-
+# BFS
+# 숨바꼭질
 from collections import deque
 
 N, M = map(int,input().split()) # 헛간 , 길

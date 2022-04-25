@@ -1,3 +1,6 @@
+# 문자열
+# 그룹 단어 체커
+
 n = int(input())
 data = []
 for i in range(n):
