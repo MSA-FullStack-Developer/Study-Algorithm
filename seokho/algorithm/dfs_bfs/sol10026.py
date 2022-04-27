@@ -1,4 +1,14 @@
 import sys
+sys.setrecursionlimit(1000000)
+
+
+def dfs_rec(i, j):
+    visited[i][j] = 1
+    for a in range(4):
+        ny = i + my[a]
+        nx = j + mx[a]
+        if 0 <= ny < n and 0 <= nx < n and visited[ny][nx] == 0 and graph[i][j] == graph[ny][nx]:
+            dfs_rec(ny, nx)
 
 
 def dfs(graph, visited, i, j):
@@ -23,7 +33,7 @@ if __name__ == "__main__":
     n = int(input().rstrip())
     count = 0
 
-    #상, 하, 좌, 우
+    # 상, 하, 좌, 우
     my = [-1, 1, 0, 0]
     mx = [0, 0, -1, 1]
 
@@ -54,3 +64,13 @@ if __name__ == "__main__":
                 dfs(graph1, visited, i, j)
     b = count
     print(a, b)
+
+    c = 0
+    visited = [[0 for i in range(n)] for j in range(n)]
+    for i in range(n):
+        for j in range(n):
+            if visited[i][j] == 0:
+                dfs_rec(i, j)
+                c += 1
+
+    print("재귀: ", c)
