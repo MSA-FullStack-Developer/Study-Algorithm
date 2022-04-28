@@ -20,7 +20,7 @@
 - 각자 Branch에서 add & commit & push 후에 Pull-Request해서 저장소에 기록 남기기
 
 ## ✅ Commit Message
-- `Baekjoon : [Solve] ✍ BOJ1033_칵테일`
+- `Baekjoon : [Solve] ✍ BOJ1033 칵테일`
 - `Programmers : [Solve] ✍ 기능개발(Level2)`
 
 ## 🤝 Contributers
@@ -52,16 +52,6 @@
 <a href = "https://github.com/sisi397">
   <img src="https://avatars.githubusercontent.com/u/74189924?v=4" alt="sisi397" width="80" style="max-width:100%" />
 </a>
-
-<!--
-<a href = "https://github.com/Minyoung-Kyung">
-  <img src="https://avatars.githubusercontent.com/u/69343164?v=4" alt="Minyoung-Kyung" width="80" style="max-width:100%" />
-</a>
-<a href = "https://github.com/Turtlegim">
-  <img src="https://avatars.githubusercontent.com/u/9133430?v=4" alt="Turtlegim" width="80" style="max-width:100%" />
-</a>
-
--->
 
 ---
 
