@@ -26,7 +26,7 @@ public class p1987 {
         m = Integer.parseInt(st.nextToken());
 
         check = new int[n][m];
-        visited = new boolean[n * m];
+        visited = new boolean[26];
 
         for (int i = 0; i < n; i++) {
             String[] s = br.readLine().split("");
@@ -34,6 +34,12 @@ public class p1987 {
                 String ss = s[j];
                 check[i][j] = ss.charAt(0) - 'A';
             }
+        }
+        for (int[] s : check) {
+            for (int ss : s) {
+                System.out.print(ss + " ");
+            }
+            System.out.println();
         }
         dfs(0, 0, depth);
         System.out.println(answer);
