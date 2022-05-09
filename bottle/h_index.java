@@ -1,30 +1,44 @@
-public class h_index {
-    public static void main(String[] args) {
-        int[] citations = {3, 0, 6, 1, 5};
+import java.util.*;
+
+class Solution {
+    public int solution(int[] citations) {
         int answer = 0;
+        ArrayList<Integer> list = new ArrayList<>();
+
+        int k = 0;
+        int h_index = 0;
         int up = 0;
         int down = 0;
-        while(true){
-            for(int i = 0 ; i < citations.length ; i++){
-                if(answer <= citations[i]){
-                    up++;
-                }else{
-                    down++;
-                }
-                
-                if(answer == up){
-                    break;
-                }
-            }
-            System.out.println(up+" "+down);
-            if(answer == up && answer > down){
+        Arrays.sort(citations);
+
+        while (true) {
+            if (k == citations.length + 1) {
                 break;
             }
-            answer++;
+
+            for (int i = 0; i < citations.length; i++) {
+                if (h_index <= citations[i]) {
+                    up++;
+                } else {
+                    down++;
+                }
+            }
+
+            if (up >= h_index) {
+                list.add(h_index);
+            }
+
+            h_index++;
+            k++;
             up = 0;
             down = 0;
         }
-
-        System.out.println(answer);
+        if (citations.length == 1) {
+            answer = citations[0];
+        } else {
+            Collections.sort(list);
+            answer = list.get(list.size() - 1);
+        }
+        return answer;
     }
 }
