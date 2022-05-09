@@ -1,6 +1,3 @@
-stack = []
-stack.append((0, 1))
+a = "asdsad"
 
-x, y = stack.pop()
-
-print(x + y)
+print(list(a))
