@@ -21,7 +21,7 @@ for i in range(N):
         if graph[i][j] != 0:
             q.append((graph[i][j], i, j, count))
 
-sorted(q)
+q.sort()
 q = deque(q)
 
 # 상 하 좌 우
