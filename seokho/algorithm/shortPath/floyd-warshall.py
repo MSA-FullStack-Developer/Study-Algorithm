@@ -1,4 +1,4 @@
-n = int(input())
+n = int(inpuseokho/algorithm/shortPath/dtra.pyt())
 m = int(input())
 
 INF = float('inf')
